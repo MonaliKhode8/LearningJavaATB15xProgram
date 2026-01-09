@@ -1,4 +1,4 @@
-package ex_07_Conditions_and_Loops;
+package ex_08_Task_Program;
 import java.util.Scanner;
 public class Lab008_ex8_Triangle_Classifier {
     public static void main(String[] args) {
