@@ -25,6 +25,8 @@ public class Lab006_Calculator_Program_using_functions{
         System.out.println("The Mul of a and b is " + result_mul);
         System.out.println("The Div of a and b is " + result_div);
         System.out.println("The Mod of a and b is " + result_mod);
+
+        sc.close();
     }
 
     static int readInt(Scanner sc, String prompt) {
