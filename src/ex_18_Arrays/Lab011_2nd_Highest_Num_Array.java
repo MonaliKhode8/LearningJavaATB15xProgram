@@ -10,6 +10,8 @@ public class Lab011_2nd_Highest_Num_Array {
             if(num>Highest){
                 SecondHighest=Highest;
                 Highest=num;
+            } else if (num> SecondHighest && num!=Highest) {
+                SecondHighest=num;
             }
 
         }
